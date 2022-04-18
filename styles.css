@@ -1,5 +1,26 @@
-p{color:white;font-style:italic;font-size: medium; font-family:sans-serif;background:transparent;}
-.heading{font-family:'Courier New', Courier, monospace ;font-size: 36px;background: transparent;}
-img{height: auto;max-width:100%;}
-html{background-image:url("./Images/15387.jpg");background-repeat: no-repeat;background-size: auto;}
-body{background-image:url("./Images/15387.jpg");background-repeat: no-repeat;background-size: auto;}
+p{
+    color:white;
+    font-style:italic;
+    font-size: medium;
+    font-family:sans-serif;
+    background:transparent;
+}
+.heading{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 36px;
+    background: transparent;
+}
+img{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+html{
+    background-image:url("./Images/62fd37ef3203a999f7b9cfdaa4911e86.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{background-image:url("./Images/62fd37ef3203a999f7b9cfdaa4911e86.png");
+    background-repeat :no-repeat;
+    background-size: cover;
+}
