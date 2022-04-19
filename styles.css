@@ -2,13 +2,19 @@ p{
     color:white;
     font-style:italic;
     font-size: medium;
-    font-family:sans-serif;
+    font-family:'Courier New' ,Courier, monospace;
     background:transparent;
+    text-align: center;
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
 }
 .heading{
-    font-family:'Courier New', Courier, monospace ;
+    font-family:'Courier New',Courier, monospace;
+    font-weight: bold;
     font-size: 36px;
     background: transparent;
+    text-align: center;
 }
 img{display: block;
     margin-left: auto;
