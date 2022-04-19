@@ -21,12 +21,8 @@ img{display: block;
     margin-right: auto;
     width: 50%;
 }
-html{
+html,body{
     background-image:url("./Images/62fd37ef3203a999f7b9cfdaa4911e86.png");
     background-repeat: no-repeat;
-    background-size: cover;
-}
-body{background-image:url("./Images/62fd37ef3203a999f7b9cfdaa4911e86.png");
-    background-repeat :no-repeat;
     background-size: cover;
 }
